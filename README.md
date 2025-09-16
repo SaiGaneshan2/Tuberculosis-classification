@@ -67,6 +67,5 @@ The dataset combines multiple publicly available chest X-ray sources, totaling o
 - **Combination**: Aggregates predictions from all three models
 - **Output**: Final binary classification (Normal/Tuberculosis)
 
-## 🚀 Quick Start
-
-### Prerequisites
+##Team member:-
+-Shubham Sarawagi
